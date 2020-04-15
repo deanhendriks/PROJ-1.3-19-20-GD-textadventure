@@ -1,5 +1,5 @@
 ## MaQuest
-gamedeveloper :[jouw naam]
+gamedeveloper :[Dean Hendriks]
 
 ### Korte omschrijving van de game
 ...
